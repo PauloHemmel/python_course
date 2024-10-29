@@ -1,4 +1,6 @@
 """
+Exercício - crie uma lista de compras com listas
+
 Faça uma lista de compras com listas
 O usuário deve ter a possibilidade de
 inserir, apagar e listar valores da sua lista
